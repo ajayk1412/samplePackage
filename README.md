@@ -6,7 +6,7 @@ yarn add git+https://github.com/ajayk1412/samplePackage.git
 
 # Package description
 
-my-custom-package is a package name have printName function which console the paased parameter
+my-custom-package is a package name have printName function which console the passed parameter
 
 # Sample code for App.js to use this printName function
 
